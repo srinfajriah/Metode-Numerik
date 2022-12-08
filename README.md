@@ -8,11 +8,11 @@ Berisi program dalam menyelesaikan persoalan
 
 
 Kelompok 7:
-- Hassan Hidayatullah
+- Hassan Hidayatullah 
 - Hilma Nurul F
 - Hilmi Asysyakur Islam
 - Rebina Putri Sonjaya
-- Sri Nur Fajriah
+- Sri Nur Fajriah (2103140)
 
 Pend. Ilmu Komputer - B
 Universitas Pendidikan Indonesia
