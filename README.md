@@ -8,10 +8,10 @@ Berisi program dalam menyelesaikan persoalan
 
 
 Kelompok 7:
-- Hassan Hidayatullah 
-- Hilma Nurul F
-- Hilmi Asysyakur Islam
-- Rebina Putri Sonjaya
+- Hassan Hidayatullah (2102469)
+- Hilma Nurul F (2108871)
+- Hilmi Asysyakur Islam (2102643)
+- Rebina Putri Sonjaya (2102372)
 - Sri Nur Fajriah (2103140)
 
 Pend. Ilmu Komputer - B
