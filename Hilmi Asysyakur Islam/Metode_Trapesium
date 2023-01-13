@@ -1,8 +1,8 @@
 # Mencari integral untuk f(x) dengan metode trapesium
 e= 2.71828
 def f(x):
-    pepega = eval(fx)
-    return pepega
+    P = eval(fx)
+    return P
 
 # Algoritma Trapesium
 def trapezoidal(a,b,n):
