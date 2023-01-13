@@ -2,7 +2,7 @@
 def f(x):
     return x**3 - 6*x +2 
 
-# Definisi ungsi turunan
+# Definisi fungsi turunan
 def g(x):
     return 3*x**2 -6
 
