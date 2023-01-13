@@ -1,5 +1,8 @@
+# Import NumPy Library
 import numpy as np
 import matplotlib.pyplot as plt
+
+#Inputan
 def f(xc, x) :
     return eval(xc)
 fx = input("Masukan f(x) =")
