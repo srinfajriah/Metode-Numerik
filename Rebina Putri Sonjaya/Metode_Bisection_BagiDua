@@ -11,6 +11,8 @@ b = eval(input("Masukan nilai b = "))
 c = 0
 epsilon = eval (input("Masukan nilai e = "))
 j = eval (input("Masukan batas iterasi ="))
+
+#Implementasi
 def biseksi(a, b, epsilon):
     if f(fx, a) * f(fx, b) > 0:
                 print("Tidak memiliki akar persamaan")
