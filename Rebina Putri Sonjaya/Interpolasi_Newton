@@ -1,5 +1,6 @@
 # Import NumPy Library
 import numpy as np
+# Tampilan grafik
 import matplotlib.pyplot as plt
 
 plt.style.use('seaborn-poster')
