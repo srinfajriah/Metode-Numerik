@@ -1,7 +1,8 @@
 import numpy as np
+#library untuk bekerja dengan array, matriks
 import sys
 
-n = int(input('Input jumlah variabel: '))
+n = int(input('Input jumlah variabel: ')) #digunakan untuk menentukan banyak ordo matriks
 a = np.zeros((n,n+1))
 x = np.zeros(n)
 
@@ -22,7 +23,7 @@ for i in range(n):
             a[j][k] = a[j][k] - ratio * a[i][k]
             
 x[n-1] = a[n-1][n]/a[n-1][n-1]
-for i in range(n-2,-1,-1):
+for i in range(n-2,-1,-1): #(start, stop, step)
     x[i] = a[i][n]   
     
     for j in range(i+1,n):
